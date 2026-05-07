@@ -31,7 +31,6 @@ Computer Science student passionate about:
 \- \*\*Beautiful Afghanistan\*\*
 
 \#\# Preview
-![test](preview.JPG)
 ![ProfileScreenshot](preview.JPG)
 
 \#\#  Run Locally
