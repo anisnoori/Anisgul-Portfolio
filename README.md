@@ -32,7 +32,7 @@ Computer Science student passionate about:
 
 \#\# Preview
 
-\!\[Portfolio Screenshot\](assets/images/preview.jpg)
+\!\[Portfolio Screenshot\](assets/images/preview.JPG)
 
 \#\#  Run Locally
 
